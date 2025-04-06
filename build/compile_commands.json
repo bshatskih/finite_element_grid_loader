@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/HP/gitus/finite_element_grid_loader/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++23 -o CMakeFiles\\finite_element_grid_loader.dir\\main.cpp.obj -c C:\\Users\\HP\\gitus\\finite_element_grid_loader\\main.cpp",
+  "file": "C:/Users/HP/gitus/finite_element_grid_loader/main.cpp",
+  "output": "CMakeFiles/finite_element_grid_loader.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/gitus/finite_element_grid_loader/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++23 -o CMakeFiles\\finite_element_grid_loader.dir\\MeshLoader.cpp.obj -c C:\\Users\\HP\\gitus\\finite_element_grid_loader\\MeshLoader.cpp",
+  "file": "C:/Users/HP/gitus/finite_element_grid_loader/MeshLoader.cpp",
+  "output": "CMakeFiles/finite_element_grid_loader.dir/MeshLoader.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/gitus/finite_element_grid_loader/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++23 -o CMakeFiles\\finite_element_grid_loader.dir\\AneuMeshLoader.cpp.obj -c C:\\Users\\HP\\gitus\\finite_element_grid_loader\\AneuMeshLoader.cpp",
+  "file": "C:/Users/HP/gitus/finite_element_grid_loader/AneuMeshLoader.cpp",
+  "output": "CMakeFiles/finite_element_grid_loader.dir/AneuMeshLoader.cpp.obj"
+}
+]
