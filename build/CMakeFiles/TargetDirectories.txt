@@ -1,3 +1,0 @@
-C:/Users/HP/gitus/finite_element_grid_loader/build/CMakeFiles/finite_element_grid_loader.dir
-C:/Users/HP/gitus/finite_element_grid_loader/build/CMakeFiles/edit_cache.dir
-C:/Users/HP/gitus/finite_element_grid_loader/build/CMakeFiles/rebuild_cache.dir
